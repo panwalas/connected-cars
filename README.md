@@ -20,24 +20,11 @@ A project aimed towards bringing the concept of connected cars using several mod
 <b> Link to the code:TBA </b>
 
 ## Platforms used 📦
-<h3 align=center>
- #Image to be added
-</h3>
 TBA
-<h3 align=center>
- #Image to be added
-</h3>
-<p align=center> TBA </p>
-<h3 align=center>
-  #Image to be added
-</h3>
-
 ## Project Synposis ⚛️
 TBA
-***Current Opportunity 🚀***<br>
-TBA<br>
-TBA</n><br>
-
+***Current Opportunity 🚀***
+TBA
 ## Local Deployment
 TBA
 ## Contributors ✨
