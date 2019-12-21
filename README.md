@@ -23,8 +23,6 @@ A project aimed towards bringing the concept of connected cars using several mod
 TBA
 ## Project Synposis ⚛️
 TBA
-***Current Opportunity 🚀***
-TBA
 ## Local Deployment
 TBA
 ## Contributors ✨
